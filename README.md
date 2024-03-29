@@ -11,7 +11,7 @@
 I currently program in Python and am learning Java.
 </p>
 
-    💻 i'm passionate about technology.
+    💻 i'm passionate obesessed technology.
     
 <p align="center">Take a look at my projects here on GitHub! :)
 
