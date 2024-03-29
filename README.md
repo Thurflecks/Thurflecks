@@ -7,7 +7,7 @@
 <p align="center">Hello! My name is Arthur Felix de Sousa, and I'm 20 years old. Currently, majoring in Computer Science.</p>
 
 <br>
-<p align="center">Hey! 👋 I'm Márcio José Martins Câmara, Computer Science student, 21 years old from Peri-Mirim, MA.
+<p align="center">Hey! 👋 I'm Arthur Felix de Sousa, Computer Science student, 20 years old from Santa Luzia, MA.
 </p>
 
     💻 Passionate about computers.
