@@ -1,17 +1,18 @@
 
-<h1 align="center">Hi, I am Arthur 👋</h1>
+<h1 align="center">Hi, I am Arthur :)</h1>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=34b1eb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Márcio+Martins;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=34b1eb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Arthur;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
 <br>
-<p align="center">Hey! 👋 I'm Arthur Felix de Sousa, Computer Science student, 20 years old from Santa Luzia, MA.
+<p align="center">Hey! 👋 I'm Arthur Felix de Sousa, Computer Science student, 20 years old from Santa Luzia, MA. 
+I currently program in Python and am learning Java.
 </p>
 
-    💻 Passionate about computers.
-    🧠 Exploring the world of algorithms.
+    💻 i'm passionate about technology.
+    
 <p align="center">Take a look at my projects here on GitHub! :)
 
 </p>
