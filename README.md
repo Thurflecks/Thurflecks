@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=34b1eb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Márcio+Martins;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">Hello! My name is Arthur Felix de Sousa, and I'm 20 years old. Currently, majoring in Computer Science.</p>
+
 
 <br>
 <p align="center">Hey! 👋 I'm Arthur Felix de Sousa, Computer Science student, 20 years old from Santa Luzia, MA.
