@@ -10,8 +10,6 @@
 <p align="center">Hey! 👋 I'm Arthur Felix de Sousa, Computer Science student, 20 years old from Santa Luzia, MA. 
 I currently program in Python and am learning Java.
 </p>
-
-    💻 i'm obesessed technology.
     
 <p align="center">Take a look at my projects here on GitHub! :)
 
