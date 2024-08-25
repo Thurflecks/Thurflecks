@@ -20,5 +20,5 @@ I currently program in Python and Java.
     <h3 align="center">Statistics</h3>
     <br>
     <img width="0%" src="https://streak-stats.demolab.com/?user=thurflecks&theme=transparent" alt="Dev.thurflecks_Statistics"/>
-    <img width="44%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=thurflecks&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Dev.marciomartins12_Statistics"/>  
-    <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thurflecks&show_icons=true&locale=en&theme=transparent" alt="Dev.marciomartins12_Statistics"/>
+    <img width="44%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=thurflecks&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Dev.thurflecks_Statistics"/>  
+    <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thurflecks&show_icons=true&locale=en&theme=transparent" alt="Dev.thurflecks_Statistics"/>
