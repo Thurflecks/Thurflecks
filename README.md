@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I am Arthur :)</h1>
+<h1 align="center">Hi there! I'm Arthur Felix de Sousa 👋</h1>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Arthur;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -7,8 +7,9 @@
 
 
 <br>
-<p align="center">Hey! 👋 I'm Arthur Felix de Sousa, Computer Science student, 20 years old from Santa Luzia, MA. 
-I currently program in Python and Java.
+<p align="center">I'm a Computer Science student from Santa Luzia, MA, passionate about coding and technology. At 20, I'm building skills in Python, Java, and other programming languages to solve real-world problems and create innovative projects.
+
+🔍 Explore my GitHub repositories to see my latest projects and contributions!
 </p>
     
 <p align="center">Take a look at my projects here on GitHub! :)
