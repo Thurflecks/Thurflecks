@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm a Computer Science student from São Luis - MA, passionate about coding and technology. At 20, I'm building skills in Python, Java, NodeJs and other programming languages to solve real-world problems and create innovative projects.
+  I'm a Computer Science student from São Luis - MA, passionate about coding and technology. At 20, I'm building skills in Python, Java, NodeJs, and other programming languages to solve real-world problems and create innovative projects. As a future web developer, I am focused on mastering the tools and technologies needed to excel in the field.
 </p>
 
 <p align="center">
