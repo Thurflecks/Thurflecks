@@ -113,7 +113,7 @@ Me chamo Arthur Felix, tenho 20 anos e sou natural do Maranhão. Atualmente, cur
 ### 📊 Estatísticas
 
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img 
     style="margin-right: 5px"
     alt="GitHub Stats" 
