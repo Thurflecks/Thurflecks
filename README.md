@@ -1,9 +1,9 @@
-# Arthur Felix de Sousa 👋
+# Arthur Felix 👨‍💻
 
 **`Desenvolver Backend`**
 
 
-I'm a Computer Science student from São Luis - MA, passionate about coding and technology. At 20, I'm building skills in Python, Java, NodeJs, and other programming languages to solve real-world problems and create innovative projects. As a future web developer, I am focused on mastering the tools and technologies needed to excel in the field.
+Me chamo Arthur Felix, tenho 20 anos e sou natural do Maranhão. Atualmente, curso Ciência da Computação na Anhanguera. Sou apaixonado por tecnologia e programação, e compartilho meus conhecimentos e experiências em meus repositórios no GitHub. Fique à vontade para explorá-los!
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -111,25 +111,29 @@ I'm a Computer Science student from São Luis - MA, passionate about coding and 
 
 
 
-### 📊 Statistics
+### 📊 Estatísticas
+
 
 <p>
   <img 
-  height="200" 
-  align="left"
-  style="padding-right: 10px"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thurflecks&show_icons=true&locale=pt-br&theme=transparent" 
-  alt="Arthur's GitHub Stats"/>
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding-right: 10px; padding-top: 10px" 
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thurflecks&show_icons=true&locale=pt-br&theme=transparent" 
+  />
 
   <img 
-  height="200" 
-  align="left"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=thurflecks&show_icons=true&locale=pt-br&layout=compact&theme=transparent" alt="Most Used Languages"/>
-
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding-right: 10px; padding-top: 10px" 
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=thurflecks&show_icons=true&locale=pt-br&layout=compact&custom_title=Tecnologias&theme=transparent" alt="Tecnologias"
+  />
   <img 
-  height="200" 
-  align="center" 
-  src="https://streak-stats.demolab.com/?user=thurflecks&theme=transparent" 
-  alt="Arthur's Streak Stats"/>
+      height="200" 
+      align="center"
+      style="padding-right: 10px; padding-top: 10px" 
+      src="https://streak-stats.demolab.com/?user=thurflecks&theme=transparent" 
+      alt="Arthur's Streak Stats"/>
 </p>
- 
