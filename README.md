@@ -116,7 +116,7 @@ Me chamo Arthur Felix, tenho 20 anos e sou natural do Maranhão. Atualmente, cur
 <p>
   <img 
       height="200" 
-      align="center"
+      align="left"
       style="padding-right: 10px; padding-top: 10px" 
       src="https://streak-stats.demolab.com/?user=thurflecks&theme=transparent" 
       alt="Arthur's Streak Stats"
