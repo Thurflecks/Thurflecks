@@ -115,13 +115,6 @@ Me chamo Arthur Felix, tenho 20 anos e sou natural do Maranhão. Atualmente, cur
 
 <p>
   <img 
-      height="200" 
-      align="left"
-      style="padding-right: 10px; padding-top: 10px" 
-      src="https://streak-stats.demolab.com/?user=thurflecks&theme=transparent" 
-      alt="Arthur's Streak Stats"
-  />
-  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
@@ -136,4 +129,12 @@ Me chamo Arthur Felix, tenho 20 anos e sou natural do Maranhão. Atualmente, cur
       style="padding-right: 10px; padding-top: 10px" 
       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=thurflecks&show_icons=true&locale=pt-br&layout=compact&custom_title=Tecnologias&theme=transparent" alt="Tecnologias"
   />
+  <p align="center">
+    <img 
+      height="200" 
+      style="padding-right: 10px; padding-top: 10px" 
+      src="https://streak-stats.demolab.com/?user=thurflecks&theme=transparent" 
+      alt="Arthur's Streak Stats"
+  />
+  </p>
 </p>
