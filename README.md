@@ -2,8 +2,7 @@
 
 **`Desenvolver Full Stack`**
 
-
-Me chamo Arthur Felix, tenho 20 anos e sou natural do Maranhão. Atualmente, curso Ciência da Computação na Anhanguera. Sou apaixonado por tecnologia e programação, e compartilho meus conhecimentos e experiências em meus repositórios no GitHub. Fique à vontade para explorá-los!
+Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software e sempre em busca de novos desafios. Atualmente, estou aprimorando minhas habilidades como desenvolvedor full stack, explorando desde o back-end, que é minha grande paixão, até o front-end, garantindo experiências de usuário eficientes e intuitivas.
 
 ### 🤖 Linguagens e Tecnologias
 
