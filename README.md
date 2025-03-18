@@ -1,6 +1,6 @@
 # Arthur Felix 👨‍💻
 
-**`Desenvolver Backend`**
+**`Desenvolver Full Stack`**
 
 
 Me chamo Arthur Felix, tenho 20 anos e sou natural do Maranhão. Atualmente, curso Ciência da Computação na Anhanguera. Sou apaixonado por tecnologia e programação, e compartilho meus conhecimentos e experiências em meus repositórios no GitHub. Fique à vontade para explorá-los!
