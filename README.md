@@ -107,19 +107,3 @@ Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software e se
 
 <br>
 <br>
-
-
-## 📊 Estatísticas
-
-<div style="display: flex; gap: 10px;">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Thurflecks&show_icons=true&locale=pt-br&theme=transparent" 
-  />
-  <img 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurflecks&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
