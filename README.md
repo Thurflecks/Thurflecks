@@ -1,6 +1,6 @@
 # Arthur Felix 👨‍💻
 
-**`Desenvolver Full Stack`**
+**`Desenvolvedor Full Stack`**
 
 Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software e sempre em busca de novos desafios. Atualmente, estou aprimorando minhas habilidades como desenvolvedor full stack, explorando desde o back-end, que é minha grande paixão, até o front-end, garantindo experiências de usuário eficientes e intuitivas.
 
